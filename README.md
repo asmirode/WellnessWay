@@ -1,6 +1,5 @@
 <img width="1440" height="900" alt="Screenshot 2025-04-24 at 11 57 33 AM" src="https://github.com/user-attachments/assets/051e0f3e-c162-42ce-bc8f-92366df9f0e0" />
 <img width="1440" height="900" alt="Screenshot 2025-04-24 at 11 57 30 AM" src="https://github.com/user-attachments/assets/b534eae5-de86-4ffb-b8ab-8e0d787aea37" />
-<img width="1440" height="900" alt="Screenshot 2025-04-24 at 11 51 51 AM" src="https://github.com/user-attachments/assets/c8d24827-2b64-4382-abf3-92c3f3fad555" />
 <img width="1440" height="900" alt="Screenshot 2025-04-24 at 11 50 56 AM" src="https://github.com/user-attachments/assets/9ed99a51-c232-49ec-bf3d-4d5f74b3cf70" />
 <img width="1440" height="900" alt="Screenshot 2025-04-24 at 11 50 49 AM" src="https://github.com/user-attachments/assets/08f551f0-e605-4bd9-8ddb-4ce8b0728c2a" />
 <img width="1440" height="900" alt="Screenshot 2025-04-24 at 11 47 59 AM" src="https://github.com/user-attachments/assets/ea02d39f-28d2-4a90-93e1-e9ee7daf0a38" />
